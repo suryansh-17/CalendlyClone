@@ -6,7 +6,7 @@ import p3 from "../assets/p3.jpg";
 function Hero() {
   return (
     <>
-      <div className="grid grid-cols-5 grid-rows-5 gap-4 bg-sky-950 text-white">
+      <div className="grid grid-cols-5 grid-rows-5 gap-4 bg-sky-950 text-white pb-5">
         <div className="col-span-2 row-span-5 ml-5 mt-10 mv-5 md:ml-20 md:mt-20 md:mb-10">
           <div className="font-sans font-bold text-3xl md:text-5xl lg:text-7xl text-justify">
             <p className="">Secure</p>
